@@ -1,0 +1,8 @@
+ItemName_FR = {
+	ItemName_FireBook.Firearm1 = "Armes à feu : Techniques de débutants",
+	ItemName_FireBook.Firearm2 = "Armes à feu : Techniques intermédiaires",
+	ItemName_FireBook.Firearm3 = "Armes à feu : Techniques avancées",
+	ItemName_FireBook.Reloading1 = "Techniques de rechargement : Techniques de débutants",
+	ItemName_FireBook.Reloading2 = "Techniques de rechargement : Techniques intermédiaires",
+	ItemName_FireBook.Reloading3 = "Techniques de rechargement : Techniques avancées",
+}
